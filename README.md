@@ -19,6 +19,7 @@ Durante a oficina, utilizamos as seguintes ferramentas e bibliotecas. Você pode
 - [Pandas](https://pandas.pydata.org/pandas-docs/stable/)
 - [Matplotlib](https://matplotlib.org/stable/contents.html)
 - [Scikit-Learn](https://scikit-learn.org/stable/user_guide.html)
+- [Dataset Utilizado](https://www.kaggle.com/datasets/tawfikelmetwally/chicago-house-price)
 
 ## Materiais de Apoio e Recomendações
 
